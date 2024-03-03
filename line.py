@@ -10,9 +10,6 @@ class Point:
         self.x = x
         self.y = y
 
-    def __str__(self) -> None:
-        return f"Point({self.x}, {self.y})"
-
 
 class Line:
     """class Line"""
